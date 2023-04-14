@@ -6,3 +6,5 @@ Esta línea está añadida en local
 
 
 Aquest fitxer l'ha editat l'Aleix, des-de el seu pc
+
+Aquesta línia l'ha inserit Jefferson.
